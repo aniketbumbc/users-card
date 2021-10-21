@@ -36,3 +36,28 @@
     transform: rotate(360deg);
   }
 }
+
+.user-container {
+  height: 250px;
+  width: 200px;
+  background-color: rgb(141, 202, 202);
+  margin: 20px;
+  float: left;
+  padding: 10px;
+  border: 1px solid green;
+  word-wrap: break-word;
+}
+
+ul {
+  list-style: none;
+}
+
+h4,
+h1 {
+  text-align: center;
+}
+
+button {
+  float: right;
+  margin: 20px;
+}
